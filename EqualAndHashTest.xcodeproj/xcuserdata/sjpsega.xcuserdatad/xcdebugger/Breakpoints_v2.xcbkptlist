@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EqualAndHashTest/Person.m"
+            timestampString = "474221796.437643"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "-isEqual:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EqualAndHashTest/Person.m"
+            timestampString = "474221796.437643"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "-copyWithZone:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EqualAndHashTestTests/EqualAndHashTestTests.m"
+            timestampString = "474395042.139706"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "-testPersonWithoutHashWithDicKey"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[EqualAndHashTestTests testPersonWithoutHashWithDicKey]"
+                  moduleName = "EqualAndHashTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sjpsega/Desktop/EqualAndHashTest/EqualAndHashTestTests/EqualAndHashTestTests.m"
+                  timestampString = "474394726.967417"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[EqualAndHashTestTests testPersonWithoutHashWithDicKey]"
+                  moduleName = "EqualAndHashTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sjpsega/Desktop/EqualAndHashTest/EqualAndHashTestTests/EqualAndHashTestTests.m"
+                  timestampString = "474394726.967614"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "631">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[EqualAndHashTestTests testPersonWithoutHashWithDicKey]"
+                  moduleName = "EqualAndHashTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sjpsega/Desktop/EqualAndHashTest/EqualAndHashTestTests/EqualAndHashTestTests.m"
+                  timestampString = "474394726.967814"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "701">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[EqualAndHashTestTests testPersonWithoutHashWithDicKey]"
+                  moduleName = "EqualAndHashTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sjpsega/Desktop/EqualAndHashTest/EqualAndHashTestTests/EqualAndHashTestTests.m"
+                  timestampString = "474394726.96795"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "823">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EqualAndHashTest/Person.m"
+            timestampString = "474392957.075737"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "-isEqualToPerson:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EqualAndHashTest/Person.m"
+            timestampString = "474392958.557797"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "-isEqualToPerson:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EqualAndHashTestTests/EqualAndHashTestTests.m"
+            timestampString = "474395042.139706"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "-testPersonSameNameByDicKey"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[EqualAndHashTestTests testPersonSameNameByDicKey]"
+                  moduleName = "EqualAndHashTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sjpsega/Desktop/EqualAndHashTest/EqualAndHashTestTests/EqualAndHashTestTests.m"
+                  timestampString = "474394726.968138"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "2278">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[EqualAndHashTestTests testPersonSameNameByDicKey]"
+                  moduleName = "EqualAndHashTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sjpsega/Desktop/EqualAndHashTest/EqualAndHashTestTests/EqualAndHashTestTests.m"
+                  timestampString = "474394726.968281"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "3866">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[EqualAndHashTestTests testPersonSameNameByDicKey]"
+                  moduleName = "EqualAndHashTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sjpsega/Desktop/EqualAndHashTest/EqualAndHashTestTests/EqualAndHashTestTests.m"
+                  timestampString = "474394726.968427"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "4473">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[EqualAndHashTestTests testPersonSameNameByDicKey]"
+                  moduleName = "EqualAndHashTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sjpsega/Desktop/EqualAndHashTest/EqualAndHashTestTests/EqualAndHashTestTests.m"
+                  timestampString = "474394726.968687"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "4601">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EqualAndHashTest/Person.m"
+            timestampString = "474394729.904329"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "-isEqualToPerson:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EqualAndHashTestTests/EqualAndHashTestTests.m"
+            timestampString = "474395093.354064"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "-testPersonWithoutHashWithDicKey"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[EqualAndHashTestTests testPersonWithoutHashWithDicKey]"
+                  moduleName = "EqualAndHashTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sjpsega/Desktop/EqualAndHashTest/EqualAndHashTestTests/EqualAndHashTestTests.m"
+                  timestampString = "474396036.999902"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "507">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[EqualAndHashTestTests testPersonWithoutHashWithDicKey]"
+                  moduleName = "EqualAndHashTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sjpsega/Desktop/EqualAndHashTest/EqualAndHashTestTests/EqualAndHashTestTests.m"
+                  timestampString = "474396037.000151"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "583">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[EqualAndHashTestTests testPersonWithoutHashWithDicKey]"
+                  moduleName = "EqualAndHashTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sjpsega/Desktop/EqualAndHashTest/EqualAndHashTestTests/EqualAndHashTestTests.m"
+                  timestampString = "474396037.000446"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "704">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[EqualAndHashTestTests testPersonWithoutHashWithDicKey]"
+                  moduleName = "EqualAndHashTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sjpsega/Desktop/EqualAndHashTest/EqualAndHashTestTests/EqualAndHashTestTests.m"
+                  timestampString = "474396037.000778"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "1173">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
